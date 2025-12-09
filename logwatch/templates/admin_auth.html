@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card" style="max-width:520px; margin:40px auto; padding:20px;">
+  <h3>Подтверждение прав администратора</h3>
+
+  {% if error %}
+    <div class="alert alert-danger">{{ error }}</div>
+  {% endif %}
+  {% if messages %}
+    {% for m in messages %}
+      <div class="alert alert-{{ m.tags }}">{{ m }}</div>
+    {% endfor %}
+  {% endif %}
+
+  <form method="post">
+    {% csrf_token %}
+    <div class="form-group" style="margin-bottom:12px;">
+      <label>Админ-логин</label>
+      <input type="text" name="username" class="input-small" required>
+    </div>
+    <div class="form-group" style="margin-bottom:12px;">
+      <label>Пароль</label>
+      <input type="password" name="password" class="input-small" required>
+    </div>
+    <button type="submit" class="btn" style="width:120px;">Подтвердить</button>
+    <p style="margin-top:10px;color:var(--text-muted);">Страница доступна только администраторам</p>
+  </form>
+</div>
+{% endblock %}

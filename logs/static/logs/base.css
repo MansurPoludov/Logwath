@@ -1,0 +1,252 @@
+/* === COLORS === */
+:root {
+    --bg: #1e1e2f;
+    --surface: #2b2c40;
+    --accent: #3d6dff;
+    --text: #e6e6f2;
+    --text-muted: #b2b3c4;
+    --border: #3a3b52;
+    --danger: #ff4d4d;
+}
+
+/* === GLOBAL === */
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    display: flex;
+}
+
+a { text-decoration: none; }
+
+.content {
+    margin-left: 150px;
+    padding: 30px;
+    width: calc(100% - 240px);
+}
+
+.card {
+    background: var(--surface);
+    padding: 20px;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    box-shadow: 0 0 20px rgba(0,0,0,0.35);
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.accent {
+    color: var(--accent);
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 15px 30px;
+    background: var(--accent);
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.2s;
+
+}
+
+.btn:hover { opacity: 0.8; }
+
+/* === SIDEBAR === */
+.sidebar {
+    width: 240px;
+    height: 100vh;
+    background: #191a28;
+    padding: 25px;
+    position: fixed;
+    border-right: 1px solid var(--border);
+}
+
+.sidebar h2 {
+    color: var(--accent);
+    margin-bottom: 20px;
+    margin-top: 80px
+}
+
+.sidebar .item {
+    display: block;
+    margin: 18px 0;
+    color: var(--text-muted);
+    transition: 0.2s;
+}
+
+.sidebar .item:hover {
+    color: var(--accent);
+}
+
+.logout {
+    margin-top: 30px;
+    width: 100%;
+    background: var(--danger);
+}
+
+/* === TABLE === */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface);
+    margin-top: 20px;
+}
+
+.table th {
+    padding: 12px;
+    background: #232434;
+    color: var(--accent);
+}
+
+.table td {
+    padding: 12px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-muted);
+}
+/* === SIDEBAR TOGGLE (добавить в конец файла) === */
+
+/* скрытие панели */
+.sidebar.hidden {
+    transform: translateX(-300px);
+}
+
+/* плавный переход */
+.sidebar {
+    transition: transform 0.25s ease;
+}
+
+/* контент расширяется, когда панель скрыта */
+.content.full {
+    margin-left: 0 !important;
+    width: 100% !important;
+    transition: margin-left 0.25s ease;
+}
+
+/* кнопка открытия/закрытия */
+.toggle-btn {
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 300;
+    background: #1f233f;
+    padding: 8px 12px;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    user-select: none;
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+
+}
+.input-small {
+    width: 300px;        /* сделай больше/меньше как хочешь */
+    padding: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+
+    }
+/* правильное отображение пунктов меню */
+.sidebar .item {
+    display: block;
+    margin: 18px 0;
+    color: var(--text-muted);
+    font-size: 17px;
+    transition: 0.2s;
+}
+
+/* контейнер для кнопки logout */
+.logout-wrapper {
+    margin-top: 50px; /* опускаем кнопку вниз */
+}
+.sidebar-content {
+    margin-top: 40px; /* регулируй как нужно */
+}
+
+
+/* СТИЛИ ДЛЯ ЗАГРУЗКИ ФАЙЛА */
+
+/* Опустить заголовок */
+.content h2 {
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+/* Укороченная рамка */
+.upload-card {
+    width: 70%;
+    margin: 0 auto;
+}
+
+/* Форму выровнять в линию */
+.upload {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+/* Увеличить размер текста */
+.upload label {
+    font-size: 18px;
+}
+
+/* Увеличить кнопку "Выбрать файл" */
+.upload input[type="file"] {
+    font-size: 18px;
+    padding: 6px;
+}
+
+/* Сдвинуть кнопку "Загрузить" вправо */
+.upload .btn {
+    margin-left: 10px;
+    padding: 14px 28px;
+    font-size: 16px;
+}
+/* ВСПЛЫВАЮЩИЕ УВЕДОМЛЕНИЯ */
+.messages {
+    position: fixed;
+    top: 25px;
+    right: 995px;
+    width: 300px;
+    z-index: 2000;
+}
+
+
+.alert {
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    opacity: 0.95;
+}
+
+/* типы сообщений */
+.alert-success { background: #28a745; }
+.alert-error, .alert-danger { background: #dc3545; }
+.alert-warning { background: #ffc107; color: black; }
+.alert-info { background: #17a2b8; }
+
+
+/* Анимация плавного исчезновения */
+.fade-out {
+    animation: fadeOut 0.7s forwards;
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; }
+    to { opacity: 0; transform: translateY(-10px); }
+}
+

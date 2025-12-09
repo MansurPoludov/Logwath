@@ -1,0 +1,2334 @@
+  	  	ID: 1ea10cf4-6110-4c17-bfe6-d88a93d8a927
+		 Version: 1.4.7.92
+		Checking for updates. Please, wait...
+[01.11.2025 12:58:36]: Version: 1.4.7.92 <-- An update is available v1.4.8.1
+		Windows version: Undefined Windows version (10.0.26200.0) (x64)
+		Username: mansu
+		PC Name: MANSUR
+		Boot mode: Normal
+
+		Startup count: 2
+
+
+--------------Legend-symbols-------------------
+[!]     Minor warning
+[!!]    A warning worth paying attention to
+[!!!]   A threat has been detected
+[!!!!]  A rootkit has been detected
+[reg]   Scan the registry key(s)
+[+]     Successful completion of the action (treatment, removal, etc.)
+[x]     Error
+[xxx]   Critical error: for example, when running in the sandbox
+[#]     Status
+[.]     Description
+[_]     Unblocking the directory and deleting if empty
+[i]     Information
+[$]     Elapsed scan time
+[&]     Summary
+----------------------------------------------------
+		Preparing to scan, please wait...
+		Checking rootkit present...
+[01.11.2025 12:58:36]: 	[#] No threats found
+		Scanning processes...
+[01.11.2025 12:58:41]: Scanning: AggregatorHost.exe
+[01.11.2025 12:58:41]: Scanning: amdfendrsr.exe
+[01.11.2025 12:58:41]: Scanning: AMDRSServ.exe
+[01.11.2025 12:58:42]: Scanning: AMDRSSrcExt.exe
+[01.11.2025 12:58:42]: Scanning: AppActions.exe
+[01.11.2025 12:58:42]: Scanning: ApplicationFrameHost.exe
+[01.11.2025 12:58:42]: Scanning: atieclxx.exe
+[01.11.2025 12:58:43]: Scanning: atiesrxx.exe
+[01.11.2025 12:58:43]: Scanning: audiodg.exe
+[01.11.2025 12:58:43]: Scanning: cmd.exe
+[01.11.2025 12:58:43]: Scanning: cncmd.exe
+[01.11.2025 12:58:43]: Scanning: conhost.exe
+[01.11.2025 12:58:43]: Scanning: CrossDeviceResume.exe
+[01.11.2025 12:58:43]: Scanning: ctfmon.exe
+[01.11.2025 12:58:43]: Scanning: dllhost.exe
+[01.11.2025 12:58:43]: Scanning: dwm.exe
+[01.11.2025 12:58:43]: Scanning: explorer.exe
+[01.11.2025 12:58:43]: Scanning: FMService64.exe
+[01.11.2025 12:58:43]: Scanning: FnHotkeyCapsLKNumLK.exe
+[01.11.2025 12:58:43]: Scanning: FnHotkeyUtility.exe
+[01.11.2025 12:58:43]: Scanning: fontdrvhost.exe
+[01.11.2025 12:58:43]: Scanning: gamingservices.exe
+[01.11.2025 12:58:43]: Scanning: gamingservicesnet.exe
+[01.11.2025 12:58:43]: Scanning: LenovoUtilityService.exe
+[01.11.2025 12:58:43]: Scanning: LockApp.exe
+[01.11.2025 12:58:43]: Scanning: LSB.exe
+[01.11.2025 12:58:44]: Scanning: msedge.exe
+[01.11.2025 12:58:44]: Scanning: msedgewebview2.exe
+[01.11.2025 12:58:44]: Scanning: NahimicService.exe
+[01.11.2025 12:58:44]: Scanning: NhNotifSys.exe
+[01.11.2025 12:58:45]: Scanning: NVDisplay.Container.exe
+[01.11.2025 12:58:45]: Scanning: OfficeClickToRun.exe
+[01.11.2025 12:58:45]: Scanning: pg_ctl.exe
+[01.11.2025 12:58:45]: Scanning: PhoneExperienceHost.exe
+[01.11.2025 12:58:45]: Scanning: postgres.exe
+[01.11.2025 12:58:46]: Scanning: RadeonSoftware.exe
+[01.11.2025 12:58:46]: Scanning: RtkAudUService64.exe
+[01.11.2025 12:58:46]: Scanning: RuntimeBroker.exe
+[01.11.2025 12:58:46]: Scanning: SearchHost.exe
+[01.11.2025 12:58:46]: Scanning: SearchIndexer.exe
+[01.11.2025 12:58:46]: Scanning: SearchProtocolHost.exe
+[01.11.2025 12:58:46]: Scanning: SecurityHealthSystray.exe
+[01.11.2025 12:58:46]: Scanning: ShellExperienceHost.exe
+[01.11.2025 12:58:46]: Scanning: ShellHost.exe
+[01.11.2025 12:58:46]: Scanning: sihost.exe
+[01.11.2025 12:58:46]: Scanning: smartscreen.exe
+[01.11.2025 12:58:47]: Scanning: spoolsv.exe
+[01.11.2025 12:58:47]: Scanning: StartMenuExperienceHost.exe
+[01.11.2025 12:58:47]: Scanning: svchost.exe
+[01.11.2025 12:58:49]: Scanning: SystemSettings.exe
+[01.11.2025 12:58:49]: Scanning: taskhostw.exe
+[01.11.2025 12:58:49]: Scanning: TextInputHost.exe
+[01.11.2025 12:58:49]: Scanning: unsecapp.exe
+[01.11.2025 12:58:49]: Scanning: UserOOBEBroker.exe
+[01.11.2025 12:58:49]: Scanning: winlogon.exe
+[01.11.2025 12:58:49]: Scanning: wlanext.exe
+[01.11.2025 12:58:49]: Scanning: WmiPrvSE.exe
+		Scanning directories...
+[01.11.2025 12:58:49]: 	[#] No threats found
+		Scanning files...
+[01.11.2025 12:58:50]: 	[#] No threats found
+		Scanning registry...
+[01.11.2025 12:58:50]: [Reg] DisallowRun...
+[01.11.2025 12:58:50]: [Reg] AppInitDLL...
+[01.11.2025 12:58:50]: [Reg] IFEO...
+[01.11.2025 12:58:50]: [Reg] IFEO WOW6432...
+[01.11.2025 12:58:50]: [Reg] Silent_Exit_Process...
+[01.11.2025 12:58:50]: [Reg] HKLM Autorun...
+[01.11.2025 12:58:50]: [Reg] HKCU Autorun...
+[01.11.2025 12:58:50]: 	[!] File is not found: "C:\Program Files (x86)\uFiler\uFiler.exe" -autorun | uFiler
+[01.11.2025 12:58:50]: [Reg] HKCU System policies...
+[01.11.2025 12:58:50]: [Reg] tektonit...
+[01.11.2025 12:58:50]: [Reg] Applocker...
+[01.11.2025 12:58:50]: [Reg] Windows Defender...
+[01.11.2025 12:58:50]: [Reg] Wow64Node Autorun...
+[01.11.2025 12:58:50]: 	[#] No threats found
+		WMI Database check...
+[01.11.2025 12:58:50]: 	[#] No threats found
+		Scanning services...
+[01.11.2025 12:58:50]: [.] Service name: ADPSvc
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\System32\adpsvc.dll
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: ALG
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\System32\alg.exe
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 208 KB
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: AMD Crash Defender Service
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\System32\DriverStore\FileRepository\amdfendr.inf_amd64_987f8cede005f427\amdfendrsr.exe
+[01.11.2025 12:58:50]: [.] State: Running
+[01.11.2025 12:58:50]: [.] File size: 640,4 KB
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: AMD External Events Utility
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\System32\DriverStore\FileRepository\u0408849.inf_amd64_53e030d4d9290593\B408642\atiesrxx.exe
+[01.11.2025 12:58:50]: [.] State: Running
+[01.11.2025 12:58:50]: [.] File size: 653,9 KB
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: AppIDSvc
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\System32\appidsvc.dll
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: Appinfo
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:50]: [.] State: Running
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\System32\appinfo.dll
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: AppMgmt
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\System32\appmgmts.dll
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: AppReadiness
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\System32\svchost.exe -k AppReadiness -p
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\system32\AppReadiness.dll
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: AppVClient
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\AppVClient.exe
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 773,4 KB
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: [.] Service name: AppXSvc
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\svchost.exe -k wsappx -p
+[01.11.2025 12:58:50]: [.] State: Running
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\system32\appxdeploymentserver.dll
+[01.11.2025 12:58:50]: 	[OK]
+[01.11.2025 12:58:50]: ------------
+[01.11.2025 12:58:50]: [.] Service name: ApxSvc
+[01.11.2025 12:58:50]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:50]: [.] State: Stopped
+[01.11.2025 12:58:50]: [.] File size: 86,2 KB
+[01.11.2025 12:58:50]: [.] ServiceDll: C:\WINDOWS\System32\ApxSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: AssignedAccessManagerSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k AssignedAccessManagerSvc
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\assignedaccessmanagersvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: AudioEndpointBuilder
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\AudioEndpointBuilder.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: Audiosrv
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\Audiosrv.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: autotimesvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k autoTimeSvc
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\autotimesvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: AxInstSV
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k AxInstSVGroup
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\AxInstSV.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: BDESVC
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\bdesvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: BFE
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\bfe.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: BITS
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\qmgr.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: BrokerInfrastructure
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\psmsrv.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: BTAGService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\BTAGService.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: BthAvctpSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\BthAvctpSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: bthserv
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\bthserv.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: camsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k osprivacy -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\CapabilityAccessManager.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: CDPSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\CDPSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: CertPropSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\certprop.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: ClickToRunSvc
+[01.11.2025 12:58:51]: [.] Service: "C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" /service
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 12,7 MB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: ClipSVC
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k wsappx -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\ClipSVC.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: cloudidsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k CloudIdServiceGroup -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\cloudidsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: COMSysApp
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 49,3 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: CoreMessagingRegistrar
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetwork -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\coremessaging.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: CryptSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\cryptsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: CscService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\cscsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DcomLaunch
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\rpcss.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: dcsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\dcsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: defragsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k defragsvc
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\defragsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DeviceAssociationService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\das.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DeviceInstall
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\umpnpmgr.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DevQueryBroker
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\DevQueryBroker.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: Dhcp
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\dhcpcore.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: diagsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k diagnostics
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\DiagSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DiagTrack
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k utcsvc -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\diagtrack.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DialogBlockingService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DialogBlockingService
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\DialogBlockingService.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DispBrokerDesktopSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\DispBroker.Desktop.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DisplayEnhancementService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\Microsoft.Graphics.Display.DisplayEnhancementService.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DmEnrollmentSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\Windows.Internal.Management.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: dmwappushservice
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\dmwappushsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: Dnscache
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\dnsrslvr.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DoSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: dot3svc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\dot3svc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DPS
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\dps.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DsmSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\DeviceSetupManager.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DsSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\DsSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: DusmSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\dusmsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: EapHost
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\eapsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: edgeupdate
+[01.11.2025 12:58:51]: [.] Service: "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /svc
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 201,6 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: edgeupdatem
+[01.11.2025 12:58:51]: [.] Service: "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /medsvc
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 201,6 KB
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: EFS
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\lsass.exe
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 82,1 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\efssvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: embeddedmode
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\embeddedmodesvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: EntAppSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k appmodelRedirectionGuard -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\EnterpriseAppMgmtSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: EventLog
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\wevtsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: EventSystem
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\es.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: fdPHost
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\fdPHost.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: FDResPub
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\fdrespub.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: fhsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\fhsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: FMAPOService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\FMService64.exe
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 966,9 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: FontCache
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\FntCache.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: FontCache3.0.0.0
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 44,9 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: FrameServer
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k Camera
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\FrameServer.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: FrameServerMonitor
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k CameraMonitor
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\FrameServerMonitor.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: GameInputRedistService
+[01.11.2025 12:58:51]: [.] Service: "C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe"
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 138,4 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: GameInputSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\GameInputSvc.exe
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 78,4 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: GamingServices
+[01.11.2025 12:58:51]: [.] Service: "C:\Program Files\WindowsApps\Microsoft.GamingServices_31.106.13001.0_x64__8wekyb3d8bbwe\GamingServices.exe"
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,4 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: GamingServicesNet
+[01.11.2025 12:58:51]: [.] Service: "C:\Program Files\WindowsApps\Microsoft.GamingServices_31.106.13001.0_x64__8wekyb3d8bbwe\GamingServicesNet.exe"
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,4 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: gpsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k GPSvcGroup
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\gpsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: GraphicsPerfSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k GraphicsPerfSvcGroup
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\GraphicsPerfSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: hidserv
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\hidserv.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: hpatchmon
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\hpatchmon.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: HvHost
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\hvhostsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: icssvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\tetheringservice.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: IKEEXT
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\ikeext.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: InstallService
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\InstallService.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: InventorySvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k InvSvcGroup -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\inventorysvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: iphlpsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetSvcs -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\iphlpsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: IpxlatCfgSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\IpxlatCfg.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: KeyIso
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\lsass.exe
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 82,1 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\keyiso.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: KtmRm
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkServiceAndNoImpersonation -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\msdtckrm.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LanmanServer
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\srvsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LanmanWorkstation
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\wkssvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LenovoFnAndFunctionKeys
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_dd4c065a3153c566\LenovoUtilityService.exe
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 191,5 KB
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: lfsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\lfsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LicenseManager
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\LicenseManagerSvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: lltdsvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\lltdsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: lmhosts
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\lmhsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LocalKdc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\lsass.exe
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 82,1 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\system32\localkdcsvc.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LSM
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:51]: [.] State: Running
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\lsm.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: LxpSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\LanguageOverlayServer.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: MapsBroker
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\moshost.dll
+[01.11.2025 12:58:51]: 	[OK]
+[01.11.2025 12:58:51]: ------------
+[01.11.2025 12:58:51]: [.] Service name: McmSvc
+[01.11.2025 12:58:51]: [.] Service: C:\WINDOWS\system32\svchost.exe -k McmSvc -p -s McmSvc
+[01.11.2025 12:58:51]: [.] State: Stopped
+[01.11.2025 12:58:51]: [.] File size: 86,2 KB
+[01.11.2025 12:58:51]: [.] ServiceDll: C:\WINDOWS\System32\McmSvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: McpManagementService
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k McpManagementServiceGroup
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\McpManagementService.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: MDCoreSvc
+[01.11.2025 12:58:52]: [.] Service: "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\MpDefenderCoreService.exe"
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 1,9 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: MicrosoftEdgeElevationService
+[01.11.2025 12:58:52]: [.] Service: "C:\Program Files (x86)\Microsoft\Edge\Application\141.0.3537.99\elevation_service.exe"
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 2,3 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: midisrv
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\midisrv.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 580 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: mpssvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\mpssvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: MSDTC
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\msdtc.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 204 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: MSiSCSI
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\iscsiexe.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: msiserver
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\msiexec.exe /V
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 176 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: MsKeyboardFilter
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\KeyboardFilterSvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NahimicService
+[01.11.2025 12:58:52]: [.] Service: "C:\WINDOWS\system32\NahimicService.exe"
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 1,8 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NaturalAuthentication
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\NaturalAuth.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NcaSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetSvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\ncasvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NcbService
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\ncbservice.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NcdAutoSetup
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\NcdAutoSetup.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: Netlogon
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\lsass.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 82,1 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\netlogon.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: Netman
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\netman.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: netprofm
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netprofm -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\netprofmsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NetSetupSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\NetSetupSvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NetTcpPortSharing
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 129,6 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: [.] Service name: NgcCtnrSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\NgcCtnrSvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NgcSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\ngcsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NlaSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netprofm -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\netprofmsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: nsi
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\nsisvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: NVDisplay.ContainerLocalSystem
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\DriverStore\FileRepository\nvlt.inf_amd64_0a5a6c20abf1d6ef\Display.NvContainer\NVDisplay.Container.exe -s NVDisplay.ContainerLocalSystem -f C:\ProgramData\NVIDIA\NVDisplay.ContainerLocalSystem.log -l 3 -d C:\WINDOWS\System32\DriverStore\FileRepository\nvlt.inf_amd64_0a5a6c20abf1d6ef\Display.NvContainer\plugins\LocalSystem -r -p 30000 -cfg NVDisplay.ContainerLocalSystem\LocalSystem /ert
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 1,2 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PcaSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\pcasvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PeerDistSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k PeerDist
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\peerdistsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: perceptionsimulation
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 236 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PerfHost
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\SysWow64\perfhost.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 21,5 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PhoneSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\PhoneService.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: pla
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\pla.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PlugPlay
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\umpnpmgr.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PolicyAgent
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k NetworkServiceNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\ipsecsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: postgresql-x64-18
+[01.11.2025 12:58:52]: [.] Service: "C:\Program Files\PostgreSQL\18\bin\pg_ctl.exe" runservice -N "postgresql-x64-18" -D "C:\Program Files\PostgreSQL\18\data" -w
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 127,5 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: Power
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\umpo.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PrintDeviceConfigurationService
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\PrintDeviceConfigurationService.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PrintNotify
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k print
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\spool\drivers\x64\3\PrintConfig.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: 	[x] Can not proceed service PrintScanBrokerService | GetServiceImagePath(): Error on getting service config
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: ProfSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UserProfileService -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\profsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: PushToInstall
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\PushToInstall.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: QWAVE
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\qwave.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RasAuto
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\rasauto.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RasMan
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\rasmans.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: refsdedupsvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\ReFsDedupSvc.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 2,1 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RemoteAccess
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\mprdim.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RemoteRegistry
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k localService -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\regsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RetailDemo
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k rdxgroup
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\RDXService.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RmSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\RMapi.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RpcEptMapper
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k RPCSS -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\RpcEpMap.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RpcLocator
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\locator.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 32 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RpcSs
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k rpcss -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\rpcss.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: RtkAudioUniversalService
+[01.11.2025 12:58:52]: [.] Service: "C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_030a6fd3020fb520\RtkAudUService64.exe"
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 1,6 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SamSs
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\lsass.exe
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 82,1 KB
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SCardSvr
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\SCardSvr.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: ScDeviceEnum
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\ScDeviceEnum.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: Schedule
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\schedsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SCPolicySvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\certprop.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SDRSVC
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k SDRSVC
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\SDRSVC.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: seclogon
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\seclogon.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SecurityHealthService
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\SecurityHealthService.exe
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 142,7 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SEMgrSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\SEMgrSvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SENS
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\sens.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: 	[x] Can not proceed service Sense | GetServiceImagePath(): Error on getting service config
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SensorDataService
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\SensorDataService.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 1,1 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SensorService
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\SensorService.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SensrSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\sensrsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SessionEnv
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\sessenv.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SharedAccess
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\ipnathlp.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: ShellHWDetection
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\shsvcs.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: shpamsvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\Windows.SharedPC.AccountManager.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: smphost
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k smphost
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\smphost.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SmsRouter
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\SmsRouterSvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SNMPTrap
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\snmptrap.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 40 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: Spooler
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\spoolsv.exe
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 968 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: sppsvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\sppsvc.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 4,6 MB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SSDPSRV
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\ssdpsrv.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: ssh-agent
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\OpenSSH\ssh-agent.exe
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 540,5 KB
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: [.] Service name: SstpSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\sstpsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: StateRepository
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k appmodel -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\windows.staterepository.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: StiSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\system32\svchost.exe -k imgsvc
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\System32\wiaservc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: StorSvc
+[01.11.2025 12:58:52]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:52]: [.] State: Running
+[01.11.2025 12:58:52]: [.] File size: 86,2 KB
+[01.11.2025 12:58:52]: [.] ServiceDll: C:\WINDOWS\system32\storsvc.dll
+[01.11.2025 12:58:52]: 	[OK]
+[01.11.2025 12:58:52]: ------------
+[01.11.2025 12:58:52]: [.] Service name: SUService
+[01.11.2025 12:58:52]: [.] Service: "C:\Program Files (x86)\Lenovo\System Update\SUService.exe"
+[01.11.2025 12:58:52]: [.] State: Stopped
+[01.11.2025 12:58:52]: [.] File size: 28,9 KB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: svsvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\svsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: swprv
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k swprv
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\swprv.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: SysMain
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\sysmain.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: SystemEventsBroker
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\SystemEventsBrokerServer.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TapiSrv
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\tapisrv.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TermService
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkService
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\termsrv.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TextInputManagementService
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\TabSvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: Themes
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\themeservice.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TieringEngineService
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\TieringEngineService.exe
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 340 KB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TimeBrokerSvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\TimeBrokerServer.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TokenBroker
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\TokenBroker.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TrkWks
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\trkwks.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TroubleshootingSvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\MitigationClient.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: TrustedInstaller
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\servicing\TrustedInstaller.exe
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 245,4 KB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: tzautoupdate
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\tzautoupdate.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: UevAgentService
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\AgentService.exe
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 868 KB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: [.] Service name: UmRdpService
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\umrdp.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: upnphost
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\upnphost.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: UserManager
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\usermgr.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: UsoSvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\usosvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: VaultSvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\lsass.exe
+[01.11.2025 12:58:53]: [.] State: Running
+[01.11.2025 12:58:53]: [.] File size: 82,1 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\Windows\System32\vaultsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vds
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\vds.exe
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 724 KB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmicguestinterface
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmicheartbeat
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k ICService -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmickvpexchange
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmicrdv
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k ICService -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvcext.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmicshutdown
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmictimesync
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmicvmsession
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvc.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: vmicvss
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\icsvcvss.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: VSS
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\vssvc.exe
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 1,4 MB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: W32Time
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\w32time.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: 	[x] Can not proceed service WaaSMedicSvc | GetServiceImagePath(): Error on getting service config
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: WalletService
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k appmodel -p
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\system32\WalletService.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: WarpJITSvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:53]: [.] ServiceDll: C:\WINDOWS\System32\Windows.WARP.JITService.dll
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: wbengine
+[01.11.2025 12:58:53]: [.] Service: "C:\WINDOWS\system32\wbengine.exe"
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 1,5 MB
+[01.11.2025 12:58:53]: 	[OK]
+[01.11.2025 12:58:53]: ------------
+[01.11.2025 12:58:53]: [.] Service name: WbioSrvc
+[01.11.2025 12:58:53]: [.] Service: C:\WINDOWS\system32\svchost.exe -k WbioSvcGroup
+[01.11.2025 12:58:53]: [.] State: Stopped
+[01.11.2025 12:58:53]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wbiosrvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: Wcmsvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Wcmsvc
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wcmsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wcncsvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wcncsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WdiServiceHost
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wdi.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WdiSystemHost
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wdi.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WdNisSvc
+[01.11.2025 12:58:54]: [.] Service: "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\NisSrv.exe"
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 4,2 MB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WebClient
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\webclnt.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: webthreatdefsvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k WebThreatDefense -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\webthreatdefsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: Wecsvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wecsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WEPHOSTSVC
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k WepHostSvcGroup
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wephostsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wercplsupport
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wercplsupport.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WerSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k WerSvcGroup
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\WerSvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WFDSConMgrSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wfdsconmgrsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: whesvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k whesvc -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\whesvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WiaRpc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wiarpc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WinDefend
+[01.11.2025 12:58:54]: [.] Service: "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\MsMpEng.exe"
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 275,8 KB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WinHttpAutoProxySvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceHttp -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\winhttp.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: Winmgmt
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wbem\WMIsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WinRM
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\WsmSvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wisvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\flightsettings.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WlanSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wlansvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wlidsvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wlidsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wlpasvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\lpasvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WManSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\Windows.Management.Service.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wmiApSrv
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\wbem\WmiApSrv.exe
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 200 KB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WMPNetworkSvc
+[01.11.2025 12:58:54]: [.] Service: "C:\Program Files\Windows Media Player\wmpnetwk.exe"
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 896 KB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: workfolderssvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\workfolderssvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WpcMonSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\WpcDesktopMonSvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WPDBusEnum
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wpdbusenum.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WpnService
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\WpnService.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WSAIFabricSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k WSAIFabricSvcGroup -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\WSAIFabricHost.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wscsvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wscsvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WSearch
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\SearchIndexer.exe /Embedding
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 988 KB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wuauserv
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\wuaueng.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: wuqisvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\Microsoft.Data.UsageAndQualityInsights.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WwanSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\wwansvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: XblAuthManager
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\XblAuthManager.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: XblGameSave
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\XblGameSave.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: XboxGipSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\XboxGipSvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: XboxNetApiSvc
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\system32\XboxNetApiSvc.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: ZTHELPER
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k zthelper -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: [.] ServiceDll: C:\WINDOWS\System32\zthelper.dll
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: AarSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: BcastDVRUserService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: BluetoothUserService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: CaptureService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: cbdhsvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: CDPUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: CloudBackupRestoreSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: ConsentUxUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: CredentialEnrollmentManagerUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 437,2 KB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: DeviceAssociationBrokerSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: DevicePickerUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: DevicesFlowUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: MessagingService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: NPSMSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: OneSyncSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: P9RdrService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: PenService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k PenService
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: PimIndexMaintenanceSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: PrintWorkflowUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: UdkUserSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: UnistoreSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: UserDataSvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: webthreatdefusersvc_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: WpnUserService_32d7abe
+[01.11.2025 12:58:54]: [.] Service: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+[01.11.2025 12:58:54]: [.] State: Running
+[01.11.2025 12:58:54]: [.] File size: 86,2 KB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: GoogleUpdaterInternalService143.0.7482.0
+[01.11.2025 12:58:54]: [.] Service: "C:\Program Files (x86)\Google\GoogleUpdater\143.0.7482.0\updater.exe" --system --windows-service --service=update-internal
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 5,8 MB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: GoogleUpdaterService143.0.7482.0
+[01.11.2025 12:58:54]: [.] Service: "C:\Program Files (x86)\Google\GoogleUpdater\143.0.7482.0\updater.exe" --system --windows-service --service=update
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 5,8 MB
+[01.11.2025 12:58:54]: ------------
+[01.11.2025 12:58:54]: [.] Service name: GoogleChromeElevationService
+[01.11.2025 12:58:54]: [.] Service: "C:\Program Files\Google\Chrome\Application\142.0.7444.60\elevation_service.exe"
+[01.11.2025 12:58:54]: [.] State: Stopped
+[01.11.2025 12:58:54]: [.] File size: 2,3 MB
+[01.11.2025 12:58:54]: 	[OK]
+[01.11.2025 12:58:54]: ------------
+		Scanning firewall...
+[01.11.2025 12:58:55]: 	[#] No threats found
+		Scanning scheduled tasks...
+[01.11.2025 12:58:57]: [#] Scanning: appuriverifierdaily | \Microsoft\Windows\ApplicationData
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\AppHostRegistrationVerifier.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: appuriverifierinstall | \Microsoft\Windows\ApplicationData
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\AppHostRegistrationVerifier.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Automatic-Device-Join | \Microsoft\Windows\Workplace Join
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\System32\dsregcmd.exe $(Arg0) $(Arg1) $(Arg2)
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: BfeOnServiceStartTypeChange | \Microsoft\Windows\Windows Filtering Platform
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\rundll32.exe bfe.dll,BfeOnServiceStartTypeChange
+	[OK]
+[01.11.2025 12:58:57]: [.] File: C:\WINDOWS\system32\bfe.dll
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Cellular | \Microsoft\Windows\Management\Provisioning
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\ProvTool.exe /turn 7 /source CellStateChangeTask
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: CleanupTemporaryState | \Microsoft\Windows\ApplicationData
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\rundll32.exe Windows.Storage.ApplicationData.dll,CleanupTemporaryState
+	[OK]
+[01.11.2025 12:58:57]: [.] File: C:\WINDOWS\system32\Windows.Storage.ApplicationData.dll
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Consolidator | \Microsoft\Windows\Customer Experience Improvement Program
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\System32\wsqmcons.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Device | \Microsoft\Windows\Device Information
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\devicecensus.exe SystemCxt
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Device User | \Microsoft\Windows\Device Information
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\devicecensus.exe UserCxt
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Diagnostics | \Microsoft\Windows\DiskFootprint
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\disksnapshot.exe -z
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: DirectXDatabaseUpdater | \Microsoft\Windows\DirectX
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\directxdatabaseupdater.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: DmClient | \Microsoft\Windows\Feedback\Siuf
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\dmclient.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: DmClientOnScenarioDownload | \Microsoft\Windows\Feedback\Siuf
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\dmclient.exe utcwnf
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: DsSvcCleanup | \Microsoft\Windows\ApplicationData
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\dstokenclean.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: dusmtask | \Microsoft\Windows\DUSM
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\System32\dusmtask.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: DXGIAdapterCache | \Microsoft\Windows\DirectX
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\dxgiadaptercache.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: EduPrintProv | \Microsoft\Windows\Printing
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\eduprintprov.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: EnableLicenseAcquisition | \Microsoft\Windows\Subscription
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\ClipRenew.exe -e
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: FamilySafetyMonitor | \Microsoft\Windows\Shell
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\System32\wpcmon.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: GoogleUpdaterTaskSystem143.0.7482.0{0127D893-5899-4B4F-9CCF-958D998E3785} | \GoogleSystem\GoogleUpdater
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files (x86)\Google\GoogleUpdater\143.0.7482.0\updater.exe --wake --system
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: La57Cleanup | \Microsoft\Windows\Kernel
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\la57setup.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Launch Adobe CCXProcess | \
+[01.11.2025 12:58:57]: 	[!] File is not found: C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe
+[01.11.2025 12:58:57]: [#] Scanning: License Validation | \Microsoft\Windows\Clip
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\ClipUp.exe -p -s -o
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: LicenseAcquisition | \Microsoft\Windows\Subscription
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\ClipRenew.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: LicenseImdsIntegration | \Microsoft\Windows\Clip
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\fclip.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: LoginCheck | \Microsoft\Windows\PushToInstall
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\sc.exe start pushtoinstall login
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Logon | \Microsoft\Windows\Management\Provisioning
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\ProvTool.exe /turn 5 /source LogonIdleTask
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: LPRemove | \Microsoft\Windows\MUI
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\lpremove.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: maintenancetasks | \Microsoft\Windows\capabilityaccessmanager
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\rundll32.exe %windir%\system32\CapabilityAccessManager.dll,CapabilityAccessManagerDoStoreMaintenance
+	[OK]
+[01.11.2025 12:58:57]: [.] File: C:\WINDOWS\system32\CapabilityAccessManager.dll
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: MaintenanceTasks | \Microsoft\Windows\StateRepository
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\rundll32.exe %windir%\system32\Windows.StateRepositoryClient.dll,StateRepositoryDoMaintenanceTasks
+	[OK]
+[01.11.2025 12:58:57]: [.] File: C:\WINDOWS\system32\Windows.StateRepositoryClient.dll
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: MareBackup | \Microsoft\Windows\Application Experience
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW invsvc
+	[OK]
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\compattelrunner.exe -m:appraiser.dll -f:DoScheduledTelemetryRun
+	[OK]
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\compattelrunner.exe -m:aemarebackup.dll -f:BackupMareData
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: MdmDiagnosticsCleanup | \Microsoft\Windows\Management\Provisioning
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\MdmDiagnosticsTool.exe /clean
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Microsoft Compatibility Appraiser Exp | \Microsoft\Windows\Application Experience
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\compattelrunner.exe -m:appraiser.dll -f:DoScheduledTelemetryRun express
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: MicrosoftEdgeUpdateTaskMachineCore{600E4AC5-444F-42A1-B93C-36484EA2A2B6} | \
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /c
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: MicrosoftEdgeUpdateTaskMachineUA{E0FD6D64-9B58-4FBC-ABA3-DBE5D6F95C94} | \
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /ua /installsource scheduler
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Microsoft-Windows-DiskDiagnosticDataCollector | \Microsoft\Windows\DiskDiagnostic
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\rundll32.exe dfdts.dll,DfdGetDefaultPolicyAndSMART
+	[OK]
+[01.11.2025 12:58:57]: [.] File: C:\WINDOWS\system32\dfdts.dll
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Microsoft-Windows-DiskDiagnosticResolver | \Microsoft\Windows\DiskDiagnostic
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\DFDWiz.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Monitoring | \Microsoft\Windows\Hotpatch
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\cmd.exe /d /c %systemroot%\system32\hpatchmonTask.cmd
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: NotificationTask | \Microsoft\Windows\WwanSvc
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\System32\WiFiTask.exe wwan
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office Actions Server | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Microsoft Office\root\VFS\ProgramFilesCommonX64\Microsoft Shared\Office16\ActionsServer\ActionsServer.exe availabilitycheck
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office Automatic Updates 2.0 | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe /frequentupdate SCHEDULEDTASK displaylevel=False
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office Background Push Maintenance | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonx64\Microsoft Shared\Office16\opushutil.exe /pushregistration
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office ClickToRun Service Monitor | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe /WatchService
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office Feature Updates | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office Feature Updates Logon | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe /onlogon
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: Office Performance Monitor | \Microsoft\Office
+[01.11.2025 12:58:57]: 	[.] File: C:\Program Files\Microsoft Office\root\VFS\ProgramFilesCommonX64\Microsoft Shared\Office16\operfmon.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: OOBEFodSetup | \Microsoft\Windows\Servicing
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\OOBEFodSetup.exe 
+	[OK]
+[01.11.2025 12:58:57]: [#] Scanning: PcaPatchDbTask | \Microsoft\Windows\Application Experience
+[01.11.2025 12:58:57]: 	[.] File: C:\WINDOWS\system32\rundll32.exe %windir%\system32\PcaSvc.dll,PcaPatchSdbTask
+	[OK]
+[01.11.2025 12:58:58]: [.] File: C:\WINDOWS\system32\PcaSvc.dll
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: PCR Prediction Framework Firmware Update Task | \Microsoft\Windows\PCRPF
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\rundll32.exe %windir%\system32\pcrpf.dll,NotifyFirmwareUpdateStaged
+	[OK]
+[01.11.2025 12:58:58]: [.] File: C:\WINDOWS\system32\pcrpf.dll
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: PolicyConverter | \Microsoft\Windows\AppID
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\appidpolicyconverter.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Pre-staged app cleanup | \Microsoft\Windows\AppxDeploymentClient
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\rundll32.exe %windir%\system32\AppxDeploymentClient.dll,AppxPreStageCleanupRunTask
+	[OK]
+[01.11.2025 12:58:58]: [.] File: C:\WINDOWS\system32\AppxDeploymentClient.dll
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Proxy | \Microsoft\Windows\Autochk
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\rundll32.exe /d acproxy.dll,PerformAutochkOperations
+	[OK]
+[01.11.2025 12:58:58]: [.] File: C:\WINDOWS\system32\acproxy.dll
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: QueueReporting | \Microsoft\Windows\Windows Error Reporting
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\wermgr.exe -upload
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Recovery-Check | \Microsoft\Windows\Workplace Join
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\dsregcmd.exe /checkrecovery
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Registration | \Microsoft\Windows\PushToInstall
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\sc.exe start pushtoinstall registration
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: RemoteAssistanceTask | \Microsoft\Windows\RemoteAssistance
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\RAServer.exe /offerraupdate
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Report policies | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe ReportPolicies
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Retry | \Microsoft\Windows\Management\Provisioning
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\ProvTool.exe /turn 5 /source ProvRetryTask
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: RunOnReboot | \Microsoft\Windows\Management\Provisioning
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\ProvTool.exe /turn 5 /source ContinueSessionTask
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: S-1-5-21-4083810621-2164208463-754290932-1001 | \Lenovo\Lenovo Service Bridge
+[01.11.2025 12:58:58]: 	[.] File: C:\Users\mansu\AppData\Local\Programs\Lenovo\Lenovo Service Bridge\LSBUpdater.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Schedule Maintenance Work | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartMaintenanceWork
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Schedule Scan | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartScan
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Schedule Scan Static Task | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartScan
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Schedule Wake To Work | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartWork
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Schedule Work | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartWork
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Scheduled Start | \Microsoft\Windows\WindowsUpdate
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\sc.exe start wuauserv
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: ScheduledDefrag | \Microsoft\Windows\Defrag
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\defrag.exe -c -h -o -$
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SdbinstMergeDbTask | \Microsoft\Windows\Application Experience
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\sdbinst.exe -mm
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SilentCleanup | \Microsoft\Windows\DiskCleanup
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\cleanmgr.exe /autocleanstoragesense /d %systemdrive%
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SpaceAgentTask | \Microsoft\Windows\SpacePort
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\SpaceAgent.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SpaceManagerTask | \Microsoft\Windows\SpacePort
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\spaceman.exe /Work
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SpeechModelDownloadTask | \Microsoft\Windows\Speech
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\speech_onecore\common\SpeechModelDownload.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SR | \Microsoft\Windows\SystemRestore
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\srtasks.exe ExecuteScheduledSPPCreation
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Start Oobe Expedite Work | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartWork
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: StartOobeAppsScan_LicenseAccepted | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartOobeAppsScan
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: StartOobeAppsScanAfterUpdate | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\usoclient.exe StartOobeAppsScanAfterUpdate
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: StartupAppTask | \Microsoft\Windows\Application Experience
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\rundll32.exe Startupscan.dll,SusRunTask
+	[OK]
+[01.11.2025 12:58:58]: [.] File: C:\WINDOWS\system32\Startupscan.dll
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Storage Tiers Optimization | \Microsoft\Windows\Storage Tiers Management
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\defrag.exe -c -h -g -# -m 8 -i 13500
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SynchronizeTime | \Microsoft\Windows\Time Synchronization
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\sc.exe start w32time task_started
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SynchronizeTimeZone | \Microsoft\Windows\Time Zone
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\tzsync.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: SyspartRepair | \Microsoft\Windows\Chkdsk
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\bcdboot.exe %windir% /sysrepair
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Sysprep Generalize Drivers | \Microsoft\Windows\Plug and Play
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\drvinst.exe 6
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: TVSUUpdateTask | \TVT
+[01.11.2025 12:58:58]: 	[.] File: C:\Program Files (x86)\Lenovo\System Update\tvsuShim.exe /CM -search R -action INSTALL -includerebootpackages 1,3,4,5 -noicon -noreboot -nolicense -defaultupdate -schtask
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: TVSUUpdateTask_UserLogOn | \TVT
+[01.11.2025 12:58:58]: 	[.] File: C:\Program Files (x86)\Lenovo\System Update\tvsuShim.exe PendingTask
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UCPD velocity | \Microsoft\Windows\AppxDeploymentClient
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\UCPDMgr.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UIEOrchestrator | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\UIEOrchestrator.exe /SendHeartbeat
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UnexpectedCodepath | \Microsoft\Windows\Diagnosis
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\UCConfigTask.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UninstallDeviceTask | \Microsoft\Windows\Bluetooth
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\BthUdTask.exe $(Arg0)
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UpdateLibrary | \Microsoft\Windows\Windows Media Sharing
+[01.11.2025 12:58:58]: 	[.] File: C:\Program Files\Windows Media Player\wmpnscfg.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UPnPHostConfig | \Microsoft\Windows\UPnP
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\sc.exe config upnphost start= auto
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UsageAndQualityInsights-MaintenanceTask | \Microsoft\Windows\UsageAndQualityInsights
+[01.11.2025 12:58:58]: 	[.] File: C:\Windows\System32\Microsoft.Data.UsageAndQualityInsights.MaintenanceTask.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: UUS Failover Task | \Microsoft\Windows\UpdateOrchestrator
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\MLEngineStub.exe HandleUusFailoverEvaluationSignalFromWnf
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: VerifiedPublisherCertStoreCheck | \Microsoft\Windows\AppID
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\appidcertstorecheck.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: WiFiTask | \Microsoft\Windows\NlaSvc
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\WiFiTask.exe nla
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: WiFiTask | \Microsoft\Windows\WCM
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\WiFiTask.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Windows Defender Cache Maintenance | \Microsoft\Windows\Windows Defender
+[01.11.2025 12:58:58]: 	[.] File: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\MpCmdRun.exe -IdleTask -TaskName WdCacheMaintenance
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Windows Defender Cleanup | \Microsoft\Windows\Windows Defender
+[01.11.2025 12:58:58]: 	[.] File: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\MpCmdRun.exe -IdleTask -TaskName WdCleanup
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Windows Defender Scheduled Scan | \Microsoft\Windows\Windows Defender
+[01.11.2025 12:58:58]: 	[.] File: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\MpCmdRun.exe Scan -ScheduleJob -ScanTrigger 55 -IdleScheduledJob
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: Windows Defender Verification | \Microsoft\Windows\Windows Defender
+[01.11.2025 12:58:58]: 	[.] File: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25090.3009-0\MpCmdRun.exe -IdleTask -TaskName WdVerification
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: WindowsActionDialog | \Microsoft\Windows\Location
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\WindowsActionDialog.exe 
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: WsSwapAssessmentTask | \Microsoft\Windows\Sysmain
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\system32\rundll32.exe sysmain.dll,PfSvWsSwapAssessmentTask
+	[OK]
+[01.11.2025 12:58:58]: [.] File: C:\WINDOWS\system32\sysmain.dll
+	[OK]
+[01.11.2025 12:58:58]: [#] Scanning: XblGameSaveTask | \Microsoft\XblGameSave
+[01.11.2025 12:58:58]: 	[.] File: C:\WINDOWS\System32\XblGameSaveTask.exe standby
+	[OK]
+		Scanning hosts file...
+[01.11.2025 12:58:58]: 	[#] No threats found
+		Removing known malware files...
+[01.11.2025 12:58:58]: 	[#] No threats found
+		Checking TermService...
+[01.11.2025 12:58:58]: 	[#] No threats found
+		Checking user John...
+[01.11.2025 12:58:58]: 	[#] No threats found
+		Starting signature scan...
+[01.11.2025 13:00:25]: 	[!] Root certificate is not trusted \\\C:\Windows\System32\WinCsFlags.exe
+[01.11.2025 13:00:31]: 	[x] Error analyzing file \\\C:\Windows\SystemTemp\ED913926-D4CD-40F1-846F-B20B246BF2C6MpCommU\UpdatePlatform.exe | Отказано в доступе по пути "\\\C:\Windows\SystemTemp\ED913926-D4CD-40F1-846F-B20B246BF2C6MpCommU\UpdatePlatform.exe".
+[01.11.2025 13:00:55]: 	[#] No threats found
+
+		-----------------------------------
+		[$] Scan elapsed time: 00:02:18.308
+		-----------------------------------
+		[&] Total threats: 0
+		[&] Total suspcisious objects: 0
+		[&] Total cured threats: 0

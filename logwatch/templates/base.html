@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title|default:"Dashboard" }}</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'logs/base.css' %}">
+</head>
+
+<body>
+
+{% if user.is_authenticated %}
+    {% if user.is_staff %}
+      <a class="item" href="{% url 'activity_log' %}">📜 Activity Log</a>
+    {% else %}
+      {# можно не показывать ссылку #}
+    {% endif %}
+{% endif %}
+
+    {% if messages %}
+    <div class="messages">
+        {% for message in messages %}
+            <div class="alert alert-{{ message.tags }}">
+                {{ message }}
+            </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% if not hide_sidebar %}
+        <div class="toggle-btn" onclick="toggleSidebar()">☰</div>
+
+        <!-- SIDEBAR -->
+        <div id="sidebar" class="sidebar">
+            <h2>LogAI</h2>
+         <div class="sidebar-content">
+            <a class="item" href="{% url 'dashboard' %}">🏠 Dashboard</a>
+            <a class="item" href="{% url 'upload_log' %}">📁 Upload Logs</a>
+         </div>
+
+            <div class="logout-wrapper">
+            <form action="{% url 'logout' %}" method="post">
+                {% csrf_token %}
+                <button class="btn logout">Logout</button>
+            </form>
+        </div>
+        </div>
+    {% endif %}
+
+    <!-- MAIN CONTENT -->
+    <div id="content"
+         class="content"
+         style="{% if hide_sidebar %}margin-left:0; width:100%;{% endif %}">
+
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <script>
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('hidden');
+            document.getElementById('content').classList.toggle('full');
+        }
+
+            // Авто-скрытие сообщений
+    setTimeout(() => {
+        document.querySelectorAll('.alert').forEach(msg => {
+            msg.classList.add('fade-out');
+            setTimeout(() => msg.remove(), 700); // удаляем после анимации
+        });
+    }, 2500); // 3 секунды
+    </script>
+</body>
+</html>

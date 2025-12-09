@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+{% load tz %}
+<h2>Журнал активности</h2>
+
+<div class="card" style="padding:15px;">
+  <table class="table" style="width:100%;">
+    <thead>
+      <tr>
+        <th style="text-align: left;">Время</th>
+        <th style="text-align: left;">Пользователь</th>
+        <th style="text-align: left;">Действие</th>
+        <th style="text-align: left;">IP</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in logs %}
+      <tr>
+        <td>{{ item.created_at|localtime|date:"d.m.Y H:i:s"  }}</td>
+        <td>
+            {% if item.user %}
+
+                {{ item.user.username  }}
+            {% else %}
+                —
+            {% endif %}
+        </td>
+        <td>{{ item.action }}</td>
+        <td style="text-align: left;">{{ item.ip }}</td>
+      </tr>
+      {% empty %}
+      <tr><td colspan="4">Записей нет</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% if user.is_staff or user.is_superuser %}
+<form method="post" action="{% url 'clear_auditlog' %}" style="margin-top:20px; text-align:left;">
+    {% csrf_token %}
+    <button type="submit" class="btn btn-danger">Очистить журнал активности</button>
+</form>
+{% endif %}
+
+</div>
+{% endblock %}

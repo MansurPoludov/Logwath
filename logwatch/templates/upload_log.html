@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card upload-card">
+<h2>Загрузить лог-файл</h2>
+
+
+    <form method="post" enctype="multipart/form-data" class="upload">
+        {% csrf_token %}
+
+        <label for="logfile">Выберите файл логов:</label>
+
+        <input type="file" name="logfile" id="logfile" required>
+
+        <button class="btn">Загрузить</button>
+    </form>
+</div>
+{% endblock %}
