@@ -4,6 +4,42 @@
 <div id="content" class="content">
 <h2>Аналитика логов</h2>
 
+<form method="get" class="card" style="margin-bottom: 30px;">
+    <div style="display:flex; gap:15px; flex-wrap:wrap; align-items:center;">
+
+        <!-- Уровень -->
+        <select name="level" class="input-small">
+            <option value="">Все уровни</option>
+            <option value="ERROR" {% if selected_level == "ERROR" %}selected{% endif %}>ERROR</option>
+            <option value="WARNING" {% if selected_level == "WARNING" %}selected{% endif %}>WARNING</option>
+            <option value="INFO" {% if selected_level == "INFO" %}selected{% endif %}>INFO</option>
+        </select>
+
+        <!-- Файл -->
+        <select name="logfile" class="input-small">
+            <option value="">Все файлы</option>
+            {% for lf in last_logs %}
+                <option value="{{ lf.id }}"
+                    {% if selected_logfile == lf.id|stringformat:"s" %}selected{% endif %}>
+                    {{ lf.file.name|truncatechars:25 }}
+                </option>
+            {% endfor %}
+        </select>
+
+        <!-- Даты -->
+        <input type="date" name="date_from" value="{{ date_from }}" class="input-small">
+        <input type="date" name="date_to" value="{{ date_to }}" class="input-small">
+
+        <!-- Аномалии -->
+        <label style="display:flex; gap:5px; align-items:center;">
+            <input type="checkbox" name="anomaly" value="1"
+                {% if only_anomaly %}checked{% endif %}>
+            Только аномалии
+        </label>
+
+        <button class="btn">Применить</button>
+    </div>
+</form>
 
 <div class="cards">
 

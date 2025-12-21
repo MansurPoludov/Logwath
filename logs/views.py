@@ -11,7 +11,7 @@ from django.utils import  timezone
 def upload_log(request):
     if request.method == "POST":
         file = request.FILES["logfile"]
-        LogEntry.objects.filter(logfile__user=request.user).delete()
+
 
         log_obj = LogFile.objects.create(user = request.user , file = file)
         entries = analyze_log(log_obj.file.path)
