@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тестовый сайт - Лабораторная работа</title>
+    
+    <!-- ВСТАВЛЯЕМ СЧЕТЧИК ЗДЕСЬ -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();
+       for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+       k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(107722161, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/107722161" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        button, .btn { background: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 10px 0; border-radius: 5px; }
+        input, textarea { width: 100%; padding: 8px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; }
+        .section { border: 1px solid #ddd; padding: 20px; margin: 20px 0; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Лабораторная работа: Настройка событий в Яндекс.Метрике</h1>
+    <p><strong>Номер счетчика:</strong> 107722161</p>
+    
+    <!-- 1. КЛИК ПО КНОПКЕ КУПИТЬ -->
+    <div class="section">
+        <h2>Событие 1: Клик по кнопке «Купить»</h2>
+        <button onclick="ym(107722161, 'reachGoal', 'buy_click'); alert('Событие buy_click отправлено в Метрику!');">
+            Купить товар
+        </button>
+    </div>
+    
+    <!-- 2. ОТПРАВКА ФОРМЫ ОБРАТНОЙ СВЯЗИ -->
+    <div class="section">
+        <h2>Событие 2: Отправка формы обратной связи</h2>
+        <form onsubmit="ym(107722161, 'reachGoal', 'form_send'); alert('Событие form_send отправлено в Метрику!'); return false;">
+            <input type="text" placeholder="Ваше имя" required>
+            <input type="email" placeholder="Ваш email" required>
+            <button type="submit">Отправить сообщение</button>
+        </form>
+    </div>
+    
+    <!-- 3. ПРОСМОТР РАЗДЕЛА ЦЕНЫ -->
+    <div class="section" id="prices">
+        <h2>Событие 3: Просмотр раздела «Цены»</h2>
+        <ul>
+            <li>Тариф "Базовый" - 1000 руб.</li>
+            <li>Тариф "Оптимальный" - 2000 руб.</li>
+            <li>Тариф "Максимальный" - 3000 руб.</li>
+        </ul>
+        <a href="#prices" onclick="ym(107722161, 'reachGoal', 'view_prices'); alert('Событие view_prices отправлено в Метрику!');">
+            Посмотреть цены
+        </a>
+    </div>
+    
+    <!-- 4. СКАЧИВАНИЕ ФАЙЛА -->
+    <div class="section">
+        <h2>Событие 4: Скачивание файла</h2>
+        <a href="#" onclick="ym(107722161, 'reachGoal', 'file_download'); alert('Событие file_download отправлено в Метрику!'); return false;">
+            📥 Скачать прайс-лист (PDF)
+        </a>
+    </div>
+    
+    <hr>
+    <p><strong>Режим отладки:</strong> Добавьте ?_ym_debug=1 к URL и откройте консоль (F12)</p>
+</body>
+</html>
